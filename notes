@@ -1,0 +1,3 @@
+When and and or are used in the same expression, and has a higher precedence than or. This means the conditions joined with and are grouped together, as if they were inside parentheses. Precedence determines grouping, while short-circuiting determines whether the right operand needs to be evaluated:
+
+Functions are reusable pieces of code that run when you call them. Python provides built-in functions, including print(), which you used in previous lessons.
