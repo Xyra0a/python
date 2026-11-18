@@ -1,0 +1,5 @@
+1. If u get error when ure already push a code to your repo, but the activity track didn't work out. U can follow this way to solve the problem
+
+- git config user.email
+- git config --global user.email "your email, make sure email that connected with github is same with yours"
+- git config --global user.name "your username"
