@@ -1,0 +1,11 @@
+greeting = '  Hello-World  '
+print(greeting.strip())
+print(greeting.replace("Hello", "Hi").strip())
+print(greeting.split("-"))
+# startswith('N')
+# endswith('N')
+# find('N')
+# count('e')
+# isupper()
+# islower()
+# title()

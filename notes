@@ -4,3 +4,7 @@ Functions are reusable pieces of code that run when you call them. Python provid
 
 Caesar cipher is an ecryption method that shifts letter in the alphabet to encode messages
 A Caesar cipher encrypts text by replacing each letter of the plaintext with a letter a fixed number of positions later in the alphabet. For example, with a shift of 5, a would be replaced by f, b by g and so on.
+
+isinstance to check data type and giving the output boolean
+
+strip This returns a copy of the string with specified leading and trailing characters removed
