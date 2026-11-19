@@ -8,3 +8,6 @@ A Caesar cipher encrypts text by replacing each letter of the plaintext with a l
 isinstance to check data type and giving the output boolean
 
 strip This returns a copy of the string with specified leading and trailing characters removed
+
+REPL = Run, Evaluated, Print, Loop
+IDE = Integrated Development Environment
